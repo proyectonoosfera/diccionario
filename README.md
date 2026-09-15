@@ -5,3 +5,5 @@ Este script es el resultado del taller de humanidades digitales entre el MMSS y 
 
 Datos proporcionados por Nashely Yuvitza
 Script por Grecia Cano e Israel G. Solares
+
+Financiamiento por Proyecto PAPIIT IA300426 "El tiempo en los datos, los datos en el tiempo"
